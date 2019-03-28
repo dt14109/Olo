@@ -1,0 +1,10 @@
+c:\olo\Olo\Olo\bin\Debug\Olo.exe.config
+c:\olo\Olo\Olo\bin\Debug\Olo.exe
+c:\olo\Olo\Olo\bin\Debug\Olo.pdb
+c:\olo\Olo\Olo\obj\Debug\Olo.csprojAssemblyReference.cache
+c:\olo\Olo\Olo\obj\Debug\Olo.Properties.Resources.resources
+c:\olo\Olo\Olo\obj\Debug\Olo.csproj.GenerateResource.cache
+c:\olo\Olo\Olo\obj\Debug\Olo.csproj.CoreCompileInputs.cache
+c:\olo\Olo\Olo\obj\Debug\Olo.exe
+c:\olo\Olo\Olo\obj\Debug\Olo.pdb
+c:\olo\Olo\Olo\obj\Debug\Olo.Topping.resources
